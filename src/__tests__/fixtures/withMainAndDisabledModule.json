@@ -1,0 +1,10 @@
+{
+  "name": "withMainAndDisabledModule",
+  "description": "module should be removed and main should stay as is",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "module": false,
+  "dependencies": {
+    "//": "none"
+  }
+}
